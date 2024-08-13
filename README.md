@@ -40,10 +40,10 @@ This project uses the following analytical methods:
 ## References
 ### Datasets
 [GDP]
-[Olympic Analysis]
-[Olympic Host]
-[Olympic Medals]
-[Olympic Games]
-[World Population]
+[Olympic Analysis]    
+[Olympic Host]     
+[Olympic Medals]     
+[Olympic Games]     
+[World Population]      
 ### Resources
 
