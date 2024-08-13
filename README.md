@@ -1,5 +1,5 @@
 # olympic_analysis
-![Olympic analysis logo representing olypics, atheletes, etc](images/readmeLogo.png)
+<img src="images/readmeLogo.png" width="600" height="500">
 ## Project Overview 
 As the 2024 Summer Olympics comes to a close, we decided to collect Olympic data to provide feedback to the Olympics Planning Committee. 
 
