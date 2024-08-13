@@ -1,6 +1,4 @@
-<h1 style="text-align= center;"> 
-<span style="color: blue">Historical</span> Olympic Medal Analysis 
-</h1>
+<h1> Historical Olympic Medal Analysis </h1>
 
 <img src="images/readmeLogo.png" width="800" height="500">
 
@@ -36,5 +34,16 @@ This project uses the following analytical methods:
 ## Conclusion
 
 ## Future Work
-
+* A more granular analysis of individual sports and countries that typically dominate a particular sport. 
+* Incoporating additional datasets like education levels, or healthcare metrics. 
+* Pedictive modeling to forecast future Olympic performances. 
 ## References
+### Datasets
+[GDP]
+[Olympic Analysis]
+[Olympic Host]
+[Olympic Medals]
+[Olympic Games]
+[World Population]
+### Resources
+
