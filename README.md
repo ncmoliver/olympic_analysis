@@ -1,4 +1,4 @@
-<h1 style="align-text:center;">olympic_analysis</h1>
+<h1 style="text-align:center;">olympic_analysis</h1>
 <img src="images/readmeLogo.png" width="800" height="600">
 
 ## Project Overview 
