@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Historical Olympic Analysis</h1>
+<h1 style="text-align:center; color: gold">Historical Olympic Analysis</h1>
 
 <img src="images/readmeLogo.png" width="800" height="600">
 
