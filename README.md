@@ -39,7 +39,7 @@ This project uses the following analytical methods:
 * Pedictive modeling to forecast future Olympic performances. 
 ## References
 ### Datasets
-[GDP]
+[GDP]    
 [Olympic Analysis]    
 [Olympic Host]     
 [Olympic Medals]     
