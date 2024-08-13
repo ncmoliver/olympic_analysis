@@ -1,5 +1,5 @@
 <h1 style="color:gold">olympic_analysis</h1>
-<img src="images/readmeLogo.png" width="800" height="500">
+<img src="images/readmeLogo.png" width="800" height="600">
 ## Project Overview 
 As the 2024 Summer Olympics comes to a close, we decided to collect Olympic data to provide feedback to the Olympics Planning Committee. 
 
