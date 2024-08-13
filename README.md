@@ -6,7 +6,7 @@
 This project is a comprehensive analysis of global data related to the Olympics, combining datasets on world population, GDP, and Olympic performance (medals). Through this analysis, we aim to uncover trends and correlations that could provide valuable insight for future Olympic Games. 
 
 ## Datasets
-The analysis is based on five key datasets:
+The analysis is based on five key datasets:    
 **world_population.csv**: Contains population data for each country.    
 **gdp.csv**: Includes GDP figures for every country.     
 **olympic_medals.csv**: Records the medal count for each country in each Olympic event.     
