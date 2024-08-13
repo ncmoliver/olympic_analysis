@@ -1,4 +1,6 @@
-<h1 style="text-align=center;"> Historical Olympic Medal Analysis </h1>
+<h1 style="text-align= center;"> 
+<span style="color: blue">Historical</span> Olympic Medal Analysis 
+</h1>
 
 <img src="images/readmeLogo.png" width="800" height="500">
 
