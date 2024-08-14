@@ -32,7 +32,10 @@ To run this project, you need to have Python installed along with the following 
 This project uses the following analytical methods:
 
 ## Key Findings
-
+<img src="images/analysis/percent_total_by_host_countries.png" width="300" height="200">
+<img src="images/analysis/total_medal_vs_host_city_medals.png" width="300" height="200">
+<img src="images/analysis/av_gold_medal_04_16.png" width="300" height="200">
+<img src="images/analysis/gold_medal_20.png" width="300" height="200">
 ## Conclusion
 
 ## Future Work
