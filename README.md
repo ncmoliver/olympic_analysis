@@ -14,16 +14,18 @@ The analysis is based on five key datasets:
 **Olypmic_Games.csv**: Lists the country, city, and year of the Olympic Games.       
 
 ## Installation and Setup
-To run this porject, you need to have Python installed along with the following libraries:
+To run this project, you need to have Python installed along with the following libraries:
 * pandas
 * matplotlib
 * numpy
+* seaborn
+* sklearn
 
 ### Installation Steps:
 1. Clone the repository to your local machine. 
 2. Navigate to the project directory. 
 3. Install the required libaries using pip:
-* `pip install pandas matplotlib numpy`
+* `pip install pandas matplotlib numpy seaborn sklearn`
 4. Ensure the CSV files are placed in the `data/` directory. 
 
 ## Anlysis Techniques
@@ -37,7 +39,12 @@ This project uses the following analytical methods:
 * A more granular analysis of individual sports and countries that typically dominate a particular sport. 
 * Incoporating additional datasets like education levels, or healthcare metrics. 
 * Pedictive modeling to forecast future Olympic performances. 
+# Licensing & Usage
+The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to use, modify, distribute, or build upon the work for any purpose, without asking permission or providing attribution to us as creators ⭐️
 ## References
+[Xpert Learning Assistant] - Assisted in debugging and cleaning code.    
+[BCS Slack Tutor] - Organization and Planning    
+
 ### Datasets
 [GDP]    
 [Olympic Analysis](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)    
