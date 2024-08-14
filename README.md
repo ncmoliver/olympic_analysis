@@ -40,10 +40,10 @@ This project uses the following analytical methods:
 ## References
 ### Datasets
 [GDP]    
-[Olympic Analysis]    
-[Olympic Host]     
-[Olympic Medals]     
-[Olympic Games]     
-[World Population]      
+[Olympic Analysis](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)    
+[Olympic Host](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)     
+[Olympic Medals](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)    
+[Olympic Games](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)   
+[World Population](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)  
 ### Resources
 
