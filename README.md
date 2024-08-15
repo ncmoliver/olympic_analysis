@@ -42,6 +42,8 @@ To run this project, you need to have Python installed along with the following 
 * `pip install pandas matplotlib numpy seaborn sklearn`
 4. Ensure the CSV files are placed in the `data/` directory. 
 
+---
+
 ## Anlysis Techniques
 This project uses the following analytical methods:
 
