@@ -54,7 +54,7 @@ This project uses the following analytical methods:
 
 
 
-| Paragraph | Text |
+| <img src="images/analysis/Japans.png" width="300" height="200"> | This chart show Japan's total medal count in the 2020 Olympics, where they performed significantly better than their average in the previous four Olympic Games (2004 - 2016). Hosting the Olympics seems to have provided a noticeable boost in performance, indicating a potential "home advantage" |
 ## Key Findings
 <img src="images/analysis/Japans.png" width="300" height="200">
 
