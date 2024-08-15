@@ -57,13 +57,15 @@ This project uses the following analytical methods:
 | Paragraph | Text |
 ## Key Findings
 <img src="images/analysis/top_countries.png" width="300" height="200">
+<img src="images/analysis/where_in_world.png" width="300" height="200">
 <img src="images/analysis/Japan_Host.png" width="300" height="200">
 <img src="images/analysis/Japan_Past4.png" width="300" height="200">
-<img src="images/analysis/2020_correlation.png" width="300" height="200">
 <img src="images/analysis/percent_total_by_host_countries.png" width="300" height="200">
-<img src="images/analysis/total_medal_vs_host_city_medals.png" width="300" height="200">
+<img src="images/analysis/2020_correlation.png" width="300" height="200">
+<img src="images/analysis/gdp_correlation.png" width="300" height="200">
 
-<img src="images/analysis/Japan_Past4.png" width="300" height="200">
+<img src="images/analysis/gdp_scatter.png" width="300" height="200">
+<img src="images/analysis/growth_rate.png" width="300" height="200">
 ## Conclusion
 
 ## Future Work
