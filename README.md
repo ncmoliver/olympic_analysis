@@ -82,7 +82,7 @@ The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to 
 ## ⚙️ References   
 
 ### Datasets
-[GDP]    
+[GDP](https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths)
 [Olympic Analysis](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)    
 [Olympic Host](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)     
 [Olympic Medals](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)    
