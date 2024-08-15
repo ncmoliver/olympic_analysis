@@ -93,7 +93,7 @@ The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to 
 [BCS Slack Tutor] - Organization and Planning 
 
 ## Authors & Contributors
-- [Graham Adams](https://github.com/gracker17)
-- [Rygo Foss](https://github.com/emersonfoss)
-- [Dylan Reed](https://github.com/rassnapple)
-- [Marques Oliver](https://github.com/ncmoliver)
+- [Graham Adams](https://github.com/gracker17) -    Co-Developer
+- [Rygo Foss](https://github.com/emersonfoss) -     Co-Developer
+- [Dylan Reed](https://github.com/rassnapple) -     Co-Developer
+- [Marques Oliver](https://github.com/ncmoliver) -  Co-Developer
