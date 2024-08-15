@@ -64,12 +64,12 @@ This project uses the following analytical methods:
 | GDP & Total Medal Counts | <img src="images/analysis/gdp_correlation.png" width="300" height="200"> | This chart explores a deeper relationship between GDP and Olympic success. The adata shows a clear positive trend, where countries with higher GDP's tend to win more medals. The US with the highest GDP, also tops the medal count. This reinforces that strong connection between economic power and Olympic performance. |
 | GDP Growth Rate vs. Olympic Performance | <img src="images/analysis/growth_rate.png" width="300" height="200">| This chart examines the relationship between GDP growth rates over the decade leadig up to 2020 and the total number of medals won. The scattered nature of the data indicates the growth rate is not as strong a predictor as overall GDP. Countries with, high GDPs tend to perform better, regardless of recent economic growth. |
 
-## Conclusion
+## Final Conclusion
+#### The analysis shows that hosting the Olympics often gives countires a significant boost in their medal tally, as Japan's performance in 2020 indicates. However, the economic strength of a country, represented by its GDP, appears to be a more consistent and powerful predictor of Olympic success. Population size, while still relevant, plays a secondary role compared to the resources that econmomic power can provide. The flucuating advantage of host countries and the strong correlation between GDP and medals suggest that strategic investments around a countries sports infrastructure and athlete development, supported by a strong economy, are key to sustained Olympic success. 
 
 ## Future Work
-* A more granular analysis of individual sports and countries that typically dominate a particular sport. 
-* Incoporating additional datasets like education levels, or healthcare metrics. 
-* Pedictive modeling to forecast future Olympic performances. 
+Moving forward, we can explore several promising areas based on our findings. One potential direction is to ananlyze the long-term impact of hosting the Olympics on a country's sports infrastructure and athlete development, to help understand if the benefits of hosting the Olympics extends beyond medal counts.     
+Additionally, we could dive deeper into the role of economic factors, such as government spending on sports, to see how it influences Olympic performance across different countries. This could provide valuable guidance for countries looking to enhance their future Olympic performance.
 # Licensing & Usage
 The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to use, modify, distribute, or build upon the work for any purpose, without asking permission or providing attribution to us as creators ⭐️
 ## References
