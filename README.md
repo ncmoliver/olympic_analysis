@@ -60,22 +60,9 @@ This project uses the following analytical methods:
 | ----------- | ----------- | ----------- |
 | Japan's Medal Performance During 2020 Olympics | <img src="images/analysis/Japans.png" width="300" height="200"> | This chart show Japan's total medal count in the 2020 Olympics, where they performed significantly better than their average in the previous four Olympic Games (2004 - 2016). Hosting the Olympics seems to have provided a noticeable boost in performance, indicating a potential "home advantage".|
 | Percentage of Total Medals Won by Host Countries | <img src="images/analysis/percent_total_by_host_countries.png" width="300" height="200"> | This illustrates how host countries historically performs in terms of medal counts. It is evident that in many cases, the host countries tend to win a higher percentage of total medals, especially in earlier years. This trend flucuates and dramatically lessened in recent Olympics. |
-| Correlation Between Population, GDP, and Medal Count (2020) | <img src="images/analysis/2020_correlation.png" width="300" height="200"> | This chart provides a correlation matrix, showing the relationships between population, GDP, and total medals won in the 2020 Olympics. A strong positive correlation is observed between GDP and medal counts, indicating that wealthier countires are more likely to win more medals. The weaker correlation between populaion and medals, suggest economic resources plays a more significant role than population size. |
-| Paragraph | Text |  |
-| Paragraph | Text |  |
-| Paragraph | Text |  |
-| Paragraph | Text |  |
-
-
-
-
- 
-
-
-
-<img src="images/analysis/gdp_correlation.png" width="300" height="200">
-<img src="images/analysis/gdp_scatter.png" width="300" height="200">
-<img src="images/analysis/growth_rate.png" width="300" height="200">
+| Correlation Between Population, GDP, and Medal Count (2020) | <img src="images/analysis/2020_correlation.png" width="300" height="200"> | This chart provides a correlation matrix, showing the relationships between population, GDP, and total medals won in the 2020 Olympics. A strong positive correlation is observed between GDP and medal counts, indicating that wealthier countires are more likely to win more medals. The weaker correlation between populaion and medals, indicates economic resources plays a more significant role than population size. |
+| GDP & Total Medal Counts | <img src="images/analysis/gdp_correlation.png" width="300" height="200"> | This chart explores a deeper relationship between GDP and Olympic success. The adata shows a clear positive trend, where countries with higher GDP's tend to win more medals. The US with the highest GDP, also tops the medal count. This reinforces that strong connection between economic power and Olympic performance. |
+| GDP Growth Rate vs. Olympic Performance | <img src="images/analysis/growth_rate.png" width="300" height="200">| This chart examines the relationship between GDP growth rates over the decade leadig up to 2020 and the total number of medals won. The scattered nature of the data indicates the growth rate is not as strong a predictor as overall GDP. Countries with, high GDPs tend to perform better, regardless of recent economic growth. |
 
 ## Conclusion
 
