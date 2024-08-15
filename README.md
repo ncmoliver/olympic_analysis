@@ -92,3 +92,8 @@ The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to 
 [Xpert Learning Assistant] - Assisted in debugging and cleaning code.    
 [BCS Slack Tutor] - Organization and Planning 
 
+## Authors & Contributors
+- [Graham Adams](https://github.com/gracker17)
+- [Rygo Foss](https://github.com/emersonfoss)
+- [Dylan Reed](https://github.com/rassnapple)
+- [Marques Oliver](https://github.com/ncmoliver)
