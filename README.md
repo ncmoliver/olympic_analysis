@@ -5,6 +5,20 @@
 ## Project Overview 
 This project is a comprehensive analysis of global data related to the Olympics, combining datasets on world population, GDP, and Olympic performance (medals). Through this analysis, we aim to uncover trends and correlations that could provide valuable insight for future Olympic Games. 
 
+## Project Proposal
+**Initial Scope**: Our intial scope was to answer the following questions:     
+* How population affect total & gold medal?    
+* What years did bigger populations do well/fall short?    
+* What sports are dominated by bigger countries?     
+* Which have a bigger impact population or GDP on total or gold medal counts?       
+
+**Project Scope**: We narrowed our project down to support the data that we were able to find that matched up with the time given to meet our deadline, with presentable, relevant, data that could help the future olypics. We chose to focus on the affect host_cities, world population, and GDP has on total medal count by answering the following questions.        
+* Does population have an affect on a countries total olympic medal count?
+* Which as a bigger impact on total medal count GDP or World Population?
+* 
+
+
+
 ## Datasets
 The analysis is based on five key datasets:    
 **world_population.csv**: Contains population data for each country.    
@@ -31,12 +45,25 @@ To run this project, you need to have Python installed along with the following 
 ## Anlysis Techniques
 This project uses the following analytical methods:
 
+| Technique | Description |
+| ----------- | ----------- |
+| Comparative Bar Chart | A bar chart used to compare the medal counts of countries during the years they hosted the Olympics versus other years. |
+| Comparative Analysis | To identify if there is a difference in a host country's medal tally, we compared Japan's medal count from the 2020 Olympics, which Japan hosted, to its total medal tally from the previous four Olympics (2004-2016). |
+| Economic Analysis | Use of GDP data to gauge the affect wealthier nations have on Olympic Performance. |
+| Time Series Analysis | To identify trends in total medal count over time and how they correlate with various factors such as population and GDP.|
+
+
+
+| Paragraph | Text |
 ## Key Findings
+<img src="images/analysis/top_countries.png" width="300" height="200">
+<img src="images/analysis/Japan_Host.png" width="300" height="200">
+<img src="images/analysis/Japan_Past4.png" width="300" height="200">
+<img src="images/analysis/2020_correlation.png" width="300" height="200">
 <img src="images/analysis/percent_total_by_host_countries.png" width="300" height="200">
 <img src="images/analysis/total_medal_vs_host_city_medals.png" width="300" height="200">
-<img src="images/analysis/av_gold_medal_04_16.png" width="300" height="200">
-<img src="images/analysis/gold_medal_20.png" width="300" height="200">
 
+<img src="images/analysis/Japan_Past4.png" width="300" height="200">
 ## Conclusion
 
 ## Future Work
