@@ -45,15 +45,10 @@ To run this project, you need to have Python installed along with the following 
 ## Anlysis Techniques
 This project uses the following analytical methods:
 
-| Technique | Description |
-| ----------- | ----------- |
-| Comparative Bar Chart | A bar chart used to compare the medal counts of countries during the years they hosted the Olympics versus other years. |
-| Comparative Analysis | To identify if there is a difference in a host country's medal tally, we compared Japan's medal count from the 2020 Olympics, which Japan hosted, to its total medal tally from the previous four Olympics (2004-2016). |
-| Economic Analysis | Use of GDP data to gauge the affect wealthier nations have on Olympic Performance. |
-| Time Series Analysis | To identify trends in total medal count over time and how they correlate with various factors such as population and GDP.|
-
-
-
+***Comparative Bar Chart*** A bar chart used to compare the medal counts of countries during the years they hosted the Olympics versus other years.    
+***Comparative Analysis*** To identify if there is a difference in a host country's medal tally, we compared Japan's medal count from the 2020 Olympics, which Japan hosted, to its total medal tally from the previous four Olympics (2004-2016).    
+***Economic Analysis*** Use of GDP data to gauge the affect wealthier nations have on Olympic Performance.    
+***Time Series Analysis*** To identify trends in total medal count over time and how they correlate with various factors such as population and GDP.    
 
 ## Key Findings
 | Title | Project ScreenShot | Key Finding |
@@ -65,16 +60,14 @@ This project uses the following analytical methods:
 | GDP Growth Rate vs. Olympic Performance | <img src="images/analysis/growth_rate.png" width="300" height="200">| This chart examines the relationship between GDP growth rates over the decade leadig up to 2020 and the total number of medals won. The scattered nature of the data indicates the growth rate is not as strong a predictor as overall GDP. Countries with, high GDPs tend to perform better, regardless of recent economic growth. |
 
 ## Final Conclusion
-#### The analysis shows that hosting the Olympics often gives countires a significant boost in their medal tally, as Japan's performance in 2020 indicates. However, the economic strength of a country, represented by its GDP, appears to be a more consistent and powerful predictor of Olympic success. Population size, while still relevant, plays a secondary role compared to the resources that econmomic power can provide. The flucuating advantage of host countries and the strong correlation between GDP and medals suggest that strategic investments around a countries sports infrastructure and athlete development, supported by a strong economy, are key to sustained Olympic success. 
+The analysis shows that hosting the Olympics often gives countires a significant boost in their medal tally, as Japan's performance in 2020 indicates. However, the economic strength of a country, represented by its GDP, appears to be a more consistent and powerful predictor of Olympic success. Population size, while still relevant, plays a secondary role compared to the resources that econmomic power can provide. The flucuating advantage of host countries and the strong correlation between GDP and medals suggest that strategic investments around a countries sports infrastructure and athlete development, supported by a strong economy, are key to sustained Olympic success. 
 
 ## Future Work
 Moving forward, we can explore several promising areas based on our findings. One potential direction is to ananlyze the long-term impact of hosting the Olympics on a country's sports infrastructure and athlete development, to help understand if the benefits of hosting the Olympics extends beyond medal counts.     
 Additionally, we could dive deeper into the role of economic factors, such as government spending on sports, to see how it influences Olympic performance across different countries. This could provide valuable guidance for countries looking to enhance their future Olympic performance.
 # Licensing & Usage
 The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to use, modify, distribute, or build upon the work for any purpose, without asking permission or providing attribution to us as creators ⭐️
-## References
-[Xpert Learning Assistant] - Assisted in debugging and cleaning code.    
-[BCS Slack Tutor] - Organization and Planning    
+## References   
 
 ### Datasets
 [GDP]    
@@ -84,4 +77,6 @@ The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to 
 [Olympic Games](https://www.kaggle.com/datasets/muhammadehsan000/olympic-historical-dataset-1896-2020)   
 [World Population](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)  
 ### Resources
+[Xpert Learning Assistant] - Assisted in debugging and cleaning code.    
+[BCS Slack Tutor] - Organization and Planning 
 
