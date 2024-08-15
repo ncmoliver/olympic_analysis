@@ -56,7 +56,7 @@ This project uses the following analytical methods:
 
 
 ## Key Findings
-| Title | Project ScreenShot | Key Finding |
+| Title | Project ScreenShot | Key Finding |    
 | Japan's Medal Performance During 2020 Olympics | <img src="images/analysis/Japans.png" width="300" height="200"> | This chart show Japan's total medal count in the 2020 Olympics, where they performed significantly better than their average in the previous four Olympic Games (2004 - 2016). Hosting the Olympics seems to have provided a noticeable boost in performance, indicating a potential "home advantage". |
 | Percentage of Total Medals Won by Host Countries| <img src="images/analysis/percent_total_by_host_countries.png" width="300" height="200"> | This illustrates how host countries historically performs in terms of medal counts. It is evident that in many cases, the host countries tend to win a higher percentage of total medals, especially in earlier years. This trend flucuates and dramatically lessened in recent Olympics.|
 | Project ScreenShot | Key Finding |
