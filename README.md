@@ -46,7 +46,7 @@ To run this project, you need to have Python installed along with the following 
 This project uses the following analytical methods:
 
 ***Comparative Bar Chart*** A bar chart used to compare the medal counts of countries during the years they hosted the Olympics versus other years. 
----   
+<hr> 
 ***Comparative Analysis*** To identify if there is a difference in a host country's medal tally, we compared Japan's medal count from the 2020 Olympics, which Japan hosted, to its total medal tally from the previous four Olympics (2004-2016).    
 ---
 ***Economic Analysis*** Use of GDP data to gauge the affect wealthier nations have on Olympic Performance.    
