@@ -2,10 +2,10 @@
 
 <img src="images/readmeLogo.png" width="800" height="500">
 
-## Project Overview 
+## 🗺️ Project Overview 
 This project is a comprehensive analysis of global data related to the Olympics, combining datasets on world population, GDP, and Olympic performance (medals). Through this analysis, we aim to uncover trends and correlations that could provide valuable insight for future Olympic Games. 
 
-## Project Proposal
+## 🔬 Project Proposal
 **Initial Scope**: Our intial scope was to answer the following questions:     
 * How population affect total & gold medal?    
 * What years did bigger populations do well/fall short?    
@@ -23,7 +23,7 @@ This project is a comprehensive analysis of global data related to the Olympics,
 
 <hr>
 
-## Datasets
+## 💽 Datasets
 The analysis is based on five key datasets:    
 **world_population.csv**: Contains population data for each country.    
 **gdp.csv**: Includes GDP figures for every country.     
@@ -32,7 +32,7 @@ The analysis is based on five key datasets:
 **Olypmic_Games.csv**: Lists the country, city, and year of the Olympic Games.       
 <hr>
 
-## Installation and Setup
+## 🔻 Installation and Setup
 To run this project, you need to have Python installed along with the following libraries:
 * pandas
 * matplotlib
@@ -50,7 +50,7 @@ To run this project, you need to have Python installed along with the following 
 
 ---
 
-## Anlysis Techniques
+## ⚒️ Anlysis Techniques
 This project uses the following analytical methods:
 
 ***Comparative Bar Chart*** A bar chart used to compare the medal counts of countries during the years they hosted the Olympics versus other years. 
@@ -62,7 +62,7 @@ This project uses the following analytical methods:
 ***Time Series Analysis*** To identify trends in total medal count over time and how they correlate with various factors such as population and GDP.    
 <hr>
 
-## Key Findings
+## 🔦 Key Findings
 | Title | Project ScreenShot | Key Finding |
 | ----------- | ----------- | ----------- |
 | Japan's Medal Performance During 2020 Olympics | <img src="images/analysis/Japans.png" width="300" height="200"> | This chart show Japan's total medal count in the 2020 Olympics, where they performed significantly better than their average in the previous four Olympic Games (2004 - 2016). Hosting the Olympics seems to have provided a noticeable boost in performance, indicating a potential "home advantage".|
@@ -71,15 +71,15 @@ This project uses the following analytical methods:
 | GDP & Total Medal Counts | <img src="images/analysis/gdp_correlation.png" width="300" height="200"> | This chart explores a deeper relationship between GDP and Olympic success. The adata shows a clear positive trend, where countries with higher GDP's tend to win more medals. The US with the highest GDP, also tops the medal count. This reinforces that strong connection between economic power and Olympic performance. |
 | GDP Growth Rate vs. Olympic Performance | <img src="images/analysis/growth_rate.png" width="300" height="200">| This chart examines the relationship between GDP growth rates over the decade leadig up to 2020 and the total number of medals won. The scattered nature of the data indicates the growth rate is not as strong a predictor as overall GDP. Countries with, high GDPs tend to perform better, regardless of recent economic growth. |
 
-## Final Conclusion
+## 🔖 Final Conclusion
 The analysis shows that hosting the Olympics often gives countires a significant boost in their medal tally, as Japan's performance in 2020 indicates. However, the economic strength of a country, represented by its GDP, appears to be a more consistent and powerful predictor of Olympic success. Population size, while still relevant, plays a secondary role compared to the resources that econmomic power can provide. The flucuating advantage of host countries and the strong correlation between GDP and medals suggest that strategic investments around a countries sports infrastructure and athlete development, supported by a strong economy, are key to sustained Olympic success. 
 
-## Future Work
+## 🩺 Future Work
 Moving forward, we can explore several promising areas based on our findings. One potential direction is to ananlyze the long-term impact of hosting the Olympics on a country's sports infrastructure and athlete development, to help understand if the benefits of hosting the Olympics extends beyond medal counts.     
 Additionally, we could dive deeper into the role of economic factors, such as government spending on sports, to see how it influences Olympic performance across different countries. This could provide valuable guidance for countries looking to enhance their future Olympic performance.
-# Licensing & Usage
+# 🪪 Licensing & Usage
 The project falls under the CC0 1.0 UNIVERSAL, no rights reserved. Feel free to use, modify, distribute, or build upon the work for any purpose, without asking permission or providing attribution to us as creators ⭐️
-## References   
+## ⚙️ References   
 
 ### Datasets
 [GDP]    
