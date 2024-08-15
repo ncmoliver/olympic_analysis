@@ -13,11 +13,15 @@ This project is a comprehensive analysis of global data related to the Olympics,
 * Which have a bigger impact population or GDP on total or gold medal counts?       
 
 **Project Scope**: We narrowed our project down to support the data that we were able to find that matched up with the time given to meet our deadline, with presentable, relevant, data that could help the future olypics. We chose to focus on the affect host_cities, world population, and GDP has on total medal count by answering the following questions.        
-* Does population have an affect on a countries total olympic medal count?
-* Which as a bigger impact on total medal count GDP or World Population?
-* 
+* How does hosting the Olympics impact a country's total medal count compared to their performance in previous Games?
+* How has the 'host country advantage' changed over time, and what factors might exlain these shifts?
+* What trends can be observed in the percentage of medals won by host countries over the history of the Olympics?
+* Do host countries tend to perform better than non-host countries in the same Olympic year?
+* Which countries have consistently outperformed their expected medal counts based on GDP?
+* What is the relationship between a country's overall economic stability and its success in the Olympics?
 
 
+<hr>
 
 ## Datasets
 The analysis is based on five key datasets:    
@@ -26,6 +30,7 @@ The analysis is based on five key datasets:
 **olympic_medals.csv**: Records the medal count for each country in each Olympic event.     
 **olympic_analysis.csv**: Details the start and end dates of the Olympics, host country, participating   countries, and the year.      
 **Olypmic_Games.csv**: Lists the country, city, and year of the Olympic Games.       
+<hr>
 
 ## Installation and Setup
 To run this project, you need to have Python installed along with the following libraries:
@@ -34,6 +39,7 @@ To run this project, you need to have Python installed along with the following 
 * numpy
 * seaborn
 * sklearn
+<hr>
 
 ### Installation Steps:
 1. Clone the repository to your local machine. 
@@ -54,7 +60,7 @@ This project uses the following analytical methods:
 ***Economic Analysis*** Use of GDP data to gauge the affect wealthier nations have on Olympic Performance.     
 
 ***Time Series Analysis*** To identify trends in total medal count over time and how they correlate with various factors such as population and GDP.    
-
+<hr>
 
 ## Key Findings
 | Title | Project ScreenShot | Key Finding |
