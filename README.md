@@ -51,9 +51,6 @@ This project uses the following analytical methods:
 | Comparative Analysis | To identify if there is a difference in a host country's medal tally, we compared Japan's medal count from the 2020 Olympics, which Japan hosted, to its total medal tally from the previous four Olympics (2004-2016). |
 | Economic Analysis | Use of GDP data to gauge the affect wealthier nations have on Olympic Performance. |
 | Time Series Analysis | To identify trends in total medal count over time and how they correlate with various factors such as population and GDP.|
-
-
-
 | <img src="images/analysis/Japans.png" width="300" height="200"> | This chart show Japan's total medal count in the 2020 Olympics, where they performed significantly better than their average in the previous four Olympic Games (2004 - 2016). Hosting the Olympics seems to have provided a noticeable boost in performance, indicating a potential "home advantage" |
 ## Key Findings
 <img src="images/analysis/Japans.png" width="300" height="200">
