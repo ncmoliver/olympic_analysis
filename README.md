@@ -2,6 +2,9 @@
 
 <img src="images/readmeLogo.png" width="800" height="500">
 
+## Presentation
+https://www.canva.com/design/DAGN2Dt6MV0/Wd1DJ-0Lv7igs3c7YDFdGA/view?utm_content=DAGN2Dt6MV0&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## 🗺️ Project Overview 
 This project is a comprehensive analysis of global data related to the Olympics, combining datasets on world population, GDP, and Olympic performance (medals). Through this analysis, we aim to uncover trends and correlations that could provide valuable insight for future Olympic Games. 
 
